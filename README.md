@@ -17,5 +17,28 @@ Main language - Python
 Framwork - Flask
 Database - SQL
 
-#### Database models
+### Database models
+
+### History
+
+| creation_date  | meal_name  | cuisine_name  | new_or_repeated  |
+| -------------- | ---------- | ------------- | ---------------- |
+| 31-05-2024     | meal       | cuisine       | new/repeated     |
+
+### Meals
+
+| meal_id | meal_name              |
+| ------- | ---------------------- |
+| 1       | Brunch                 |
+| 2       | Lunch                  |
+| 3       | Dinner                 |
+| 4       | Claudio's choice       |
+| 5       | Dennelise's choice     |
+
+### Cuisine
+
+| cuisine_id | cuisine  |
+| ---------- | -------- |
+| 1          | Italian  |
+| ...        | ...      |
 
